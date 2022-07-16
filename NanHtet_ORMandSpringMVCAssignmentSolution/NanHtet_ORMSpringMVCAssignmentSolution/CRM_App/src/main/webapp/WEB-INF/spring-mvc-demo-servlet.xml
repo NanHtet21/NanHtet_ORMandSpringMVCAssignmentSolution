@@ -32,7 +32,7 @@
 		<property name="url"
 			value="jdbc:mysql://localhost:3306/cust_relation_mgmnt"></property>
 		<property name="username" value="root"></property>
-		<property name="password" value="Nwenwe@425"></property>
+		<property name="password" value="Nwenwe@123"></property>
 	</bean>
 
 	<bean id="sessionFactory"
